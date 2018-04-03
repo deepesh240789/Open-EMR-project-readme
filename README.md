@@ -1,0 +1,1 @@
+The objective of the system is to facilitate patients to schedule an appointment with a relevant healthcare provider for consultation with a doctor and for the healthcare providers to manage their daily activities for hassle free services such as managing appointments, payments, patients healthcare records online, etc
